@@ -9,6 +9,7 @@
 - Compare pricing and service levels.
 - Review contract terms and renewal dates.
 - Document risks and mitigation plans.
+- Check references from at least two current customers.
 
 ## Ongoing Management
 - Schedule quarterly business reviews.
