@@ -1,0 +1,10 @@
+# macOS system files
+.DS_Store
+
+# R session/history files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Windows system files
+Thumbs.db
